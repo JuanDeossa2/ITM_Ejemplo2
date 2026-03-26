@@ -9,7 +9,7 @@ public class Moto implements  Vehiculo{
 
     @Override
     public void conducir() {
-        System.out.println("Conducion una moto muy rapido");
+        System.out.println("Conducion una moto muy rapido y veloz");
     }
     @Override
     public int obtenernumeroruedas() {
